@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    padding:100px;
+    margin: 70px;
+}
+.div1{
+    margin: 10px;
+}
+.div2{
+    display: flex;
+    margin: 5px;
+}
+.parent{
+    border: solid black 3px ;
+    width: 400px;
+    background-color: antiquewhite;
+}
